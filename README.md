@@ -1,1 +1,1 @@
-# img-maps
+# imgmaps
